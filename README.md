@@ -2,6 +2,7 @@
 
 <h4 align="center">
   <a href="https://t.me/horekisun">Telegram</a>
+  |
   <a href="https://github.com/TheDmitryY/MultiMenu">MultiMenu</a>
 </h4>
 
